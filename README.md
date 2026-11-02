@@ -39,7 +39,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Soujanya-AR-21&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Soujanya-AR-21&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Soujanya-AR-21&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
