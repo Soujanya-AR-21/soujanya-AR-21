@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m Soujanya<br><br>💻 Aspiring Software Developer<br>🔐 Curious about Cyber Security<br>🤖 Exploring AI & new technologies<br>🚀 Continuously learning and improving my technical skills. 
+👋 Hi, I’m Soujanya<br>
+💻 Aspiring Software Developer | Web Development Enthusiast<br>
+📊 Interested in Data Analytics & Data Visualization<br>
+📈 Learning Power BI & Data Analysis<br>
+🤖 Exploring Artificial Intelligence & Emerging Technologies<br>
+🚀 Continuously Learning, Building Projects & Improving My Technical Skills.
+ 
 
 
 ## 🌐 Socials: 
